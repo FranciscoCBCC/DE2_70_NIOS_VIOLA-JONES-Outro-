@@ -1,0 +1,7 @@
+
+**** Clean-only build of configuration Nios II for project DE2_70_Viola-Jones ****
+
+make clean 
+[DE2_70_Viola-Jones clean complete]
+
+**** Build Finished ****
